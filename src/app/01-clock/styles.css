@@ -1,6 +1,5 @@
 body {
-  background: hsl(270deg 100% 85%);
-  background-image: url('/cleveland-museum.jpg');
+  background: hsl(0, 0%, 0%);
   background-size: cover;
   background-position: center right;
 }
